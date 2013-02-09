@@ -3,5 +3,5 @@
 #   Disqus Comments Configuration   #
 # --------------------------------- #
 
-disqus_short_name:
+disqus_short_name: mit6470blog
 disqus_show_comment_count: false

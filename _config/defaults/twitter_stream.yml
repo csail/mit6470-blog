@@ -3,7 +3,7 @@
 #   Tweet Sidebar Plugin Configs   #
 # -------------------------------- #
 
-twitter_user:
+twitter_user: mit6470
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true

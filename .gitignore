@@ -3,6 +3,7 @@
 .sass-cache
 .gist-cache
 .pygments-cache
+_config.yml
 _deploy
 public
 sass.old
@@ -13,3 +14,5 @@ source/javascripts/octopress.min.js
 source/images/icon-*.png
 vendor
 node_modules
+
+*.sw*

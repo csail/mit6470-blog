@@ -4,10 +4,10 @@
 # --------------------------------- #
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
 
 # Google+
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Twitter

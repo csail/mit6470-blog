@@ -3,12 +3,12 @@
 #   Classic Theme Configuration   #
 # ------------------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://mit6470.herokuapp.com
+title: "6.470"
+subtitle: "MIT's IAP Web Programming Competition"
+author: 6.470 Staff
 simple_search: http://google.com/search
-description:
+description: Recommendations and reflection from the 6.470 staff members
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
